@@ -40,7 +40,7 @@ origin	https://github.com/abbeygodfrey/py4eda-work.git (push)
 ## Questions
 ### Reflections
 
-Question 1:
+**Question 1:**
 
 a) I totally didn't use to have a separate file on my desktop for every version of my code... 
 that would be stupid... 
@@ -57,7 +57,7 @@ trying to isolate what worked and what didn't. It would have made keeping track 
 so so much easier and I probably would've spent at least an hour less of my time on that 
 assignment.
 
-Question 2:
+**Question 2:**
 
 a) It's important to have separation as a fail safe, but also for organization purposes. First 
 of all, we are learning, which means it's likely we'll make a mistake. For example, I tried to 
@@ -70,21 +70,21 @@ b) I would create a separate repository for a group project, but maintain my ind
 one repository. I would create a separate repository for each class, and if I had general 
 materials or practice problems, I would put them in a separate repository too.
 
-Question 3:
+**Question 3:**
 
 a) The second is far more useful because it actually tells you what was changed between this 
 version and the previous. If you updated the hw document and made an additional commit which 
 ended up breaking your code, you might want to go back to this version and the comment will 
 help you differentiate between updates.
 
-b) I would liekly make my commits corresponding to my work, and not a specific time frame. If I 
+b) I would likely make my commits corresponding to my work, and not a specific time frame. If I 
 made any core or drastic changes, I would make a commit to help with version history. I 
 wouldn't want my commits to be too big or span too long of a time frame, so I would likely get 
 in the habit of committing my changes after I'm done working at every sitting, especially if it 
 was a group project.
 
 ### Graduate Questions
-Question 1:
+**Question 1:**
 
 a) The readme and gitignore files were to describe and set up the repo, not actual work, 
 whereas the homework assignment was an actual file. These were smart to be kept separated 
@@ -101,7 +101,7 @@ This helps you break things into smaller chunks to be staged for commits. You sh
 before starting work, after making changes, and before and after staging and committing 
 changes.
 
-Question 2:
+**Question 2:**
 
 a) My understanding of distributed version control is cloning repos versus collaborating 
 directly. Essentially, the files are distributed individually and are elligible for unique 
@@ -118,7 +118,7 @@ However, you can't push to the class repository because we don't have the proper
 whereas with my_repo, you can use all three commands because it is a repository that we made 
 and control.
 
-Question 3:
+**Question 3:**
 
 a) It's important to recognize that you're not perfect, even in a professional world. There are 
 mistakes that are worth being shown on public repositories because they show that you learned 
